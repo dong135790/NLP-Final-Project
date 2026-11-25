@@ -1,0 +1,7 @@
+run,epoch,train_loss,dev_macro_f1
+HealthVer only,1,0.825412,0.692066
+HealthVer only,2,0.446149,0.712106
+HealthVer only,3,0.254498,0.713316
+HealthVer + HealthFC,1,0.826951,0.601984
+HealthVer + HealthFC,2,0.461280,0.720272
+HealthVer + HealthFC,3,0.253649,0.721175
